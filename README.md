@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm S.M Jahurul Haque</h1>
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQEElupJM0xnQQ/profile-displaybackgroundimage-shrink_350_1400/B4EZown4f8JgAY-/0/1761752354479?e=1764201600&v=beta&t=DNsRbJt1yN9UCNhA_MOWi64EoALkbHPSSXcvNZmmh2s">
 <h3 align="center">Professional Website Developer & WordPress Expert | Helping businesses and creators build stunning, functional websites. Passionate about transforming ideas into digital reality through streamlined workflows. We are focused on connecting people, businesses, and ideas through next-generation digital infrastructure and support.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-jhglobal&label=Profile%20views&color=0e75b6&style=flat" alt="dev-jhglobal" /> </p>
